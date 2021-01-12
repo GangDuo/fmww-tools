@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveExport", "MoveExport.csproj", "{C35B9066-9768-4757-9DB9-F587BF6B9398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMWW", "..\lib\FMWWLibrary\FMWW\FMWW.csproj", "{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMWW.Movement", "..\lib\FMWWLibrary\FMWW.Movement\FMWW.Movement.csproj", "{CF14A6FD-D9A4-40BE-B6A7-0384BB600A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35B9066-9768-4757-9DB9-F587BF6B9398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35B9066-9768-4757-9DB9-F587BF6B9398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35B9066-9768-4757-9DB9-F587BF6B9398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35B9066-9768-4757-9DB9-F587BF6B9398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF14A6FD-D9A4-40BE-B6A7-0384BB600A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF14A6FD-D9A4-40BE-B6A7-0384BB600A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF14A6FD-D9A4-40BE-B6A7-0384BB600A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF14A6FD-D9A4-40BE-B6A7-0384BB600A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
