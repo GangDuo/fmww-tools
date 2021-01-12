@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDistributes", "UpdateDistributes.csproj", "{AAC07B5E-039B-4652-9249-AC29BD4203DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMWW.ScheduledArrival", "..\lib\FMWWLibrary\FMWW.ScheduledArrival\FMWW.ScheduledArrival.csproj", "{0A123DE5-8840-4A8C-9DFA-230F774A25B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMWW", "..\lib\FMWWLibrary\FMWW\FMWW.csproj", "{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml.Settings", "..\lib\xml-settings\Xml.Settings.csproj", "{2BAF6D83-D450-472A-8F40-A824B39089DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQL", "..\lib\MySQL.Net\MySQL.csproj", "{9C50D7C7-9474-4F4B-AC03-0EEBFB25DE24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC07B5E-039B-4652-9249-AC29BD4203DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC07B5E-039B-4652-9249-AC29BD4203DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC07B5E-039B-4652-9249-AC29BD4203DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC07B5E-039B-4652-9249-AC29BD4203DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A123DE5-8840-4A8C-9DFA-230F774A25B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A123DE5-8840-4A8C-9DFA-230F774A25B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A123DE5-8840-4A8C-9DFA-230F774A25B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A123DE5-8840-4A8C-9DFA-230F774A25B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3102E484-51FD-4218-9A4D-1C0DD9A9E5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAF6D83-D450-472A-8F40-A824B39089DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAF6D83-D450-472A-8F40-A824B39089DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAF6D83-D450-472A-8F40-A824B39089DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAF6D83-D450-472A-8F40-A824B39089DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C50D7C7-9474-4F4B-AC03-0EEBFB25DE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C50D7C7-9474-4F4B-AC03-0EEBFB25DE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C50D7C7-9474-4F4B-AC03-0EEBFB25DE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C50D7C7-9474-4F4B-AC03-0EEBFB25DE24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

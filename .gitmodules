@@ -10,3 +10,9 @@
 [submodule "lib/FMWWLibrary"]
 	path = lib/FMWWLibrary
 	url = https://github.com/GangDuo/FMWWLibrary
+[submodule "lib/xml-settings"]
+	path = lib/xml-settings
+	url = https://github.com/GangDuo/xml-settings
+[submodule "lib/MySQL.Net"]
+	path = lib/MySQL.Net
+	url = https://github.com/GangDuo/MySQL.Net
